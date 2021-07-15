@@ -55,8 +55,8 @@
     "relativePath": "textures\\star.png"
   },
   "22e78dd1-bf49-4c1e-9bdd-06ec2b5c5d20": {
-    "asset": 1626346359703,
-    "meta": 1626346507243,
+    "asset": 1626361586475,
+    "meta": 1626361586494,
     "relativePath": "game.fire"
   },
   "5456de47-c19b-43dd-a76b-66f742bc0041": {
@@ -484,104 +484,104 @@
     "meta": 1626347502952,
     "relativePath": "scripts\\Star.ts"
   },
-  "ea5d4655-6a63-4de8-8e46-817954a29733": {
-    "asset": 1626348310836,
-    "meta": 1626348313470,
-    "relativePath": "scripts\\Game.ts"
-  },
   "c4480a0a-6ac5-443f-8b40-361a14257fc8": {
     "asset": 1612513176698,
-    "meta": 1626348379366,
+    "meta": 1626361586125,
     "relativePath": "materials\\builtin-phong.mtl"
   },
-  "b8223619-7e38-47c4-841f-9160c232495a": {
-    "asset": 1612513176720,
-    "meta": 1626348379379,
-    "relativePath": "obsolete\\atom.plist"
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1612513176722,
+    "meta": 1626361586138,
+    "relativePath": "particle\\atom.plist"
   },
   "829a282c-b049-4019-bd38-5ace8d8a6417": {
     "asset": 1612513176787,
-    "meta": 1626348378994,
+    "meta": 1626361585737,
     "relativePath": "resources\\effects\\builtin-3d-particle.effect"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1612513176720,
+    "meta": 1626361586140,
+    "relativePath": "obsolete\\atom.plist"
   },
   "2a7c0036-e0b3-4fe1-8998-89a54b8a2bec": {
     "asset": 1612513176788,
-    "meta": 1626348379046,
+    "meta": 1626361585785,
     "relativePath": "resources\\effects\\builtin-3d-trail.effect"
   },
   "c0040c95-c57f-49cd-9cbc-12316b73d0d4": {
     "asset": 1612513176788,
-    "meta": 1626348379066,
+    "meta": 1626361585821,
     "relativePath": "resources\\effects\\builtin-clear-stencil.effect"
-  },
-  "b2687ac4-099e-403c-a192-ff477686f4f5": {
-    "asset": 1612513176722,
-    "meta": 1626348379382,
-    "relativePath": "particle\\atom.plist"
   },
   "6d91e591-4ce0-465c-809f-610ec95019c6": {
     "asset": 1612513176789,
-    "meta": 1626348379151,
+    "meta": 1626361585886,
     "relativePath": "resources\\effects\\builtin-unlit.effect"
   },
   "bbee2217-c261-49bd-a8ce-708d6bcc3500": {
     "asset": 1612513176643,
-    "meta": 1626348379154,
+    "meta": 1626361585890,
     "relativePath": "resources\\materials"
   },
   "6f801092-0c37-4f30-89ef-c8d960825b36": {
     "asset": 1612513176796,
-    "meta": 1626348379385,
+    "meta": 1626361586144,
     "relativePath": "resources\\materials\\builtin-2d-base.mtl"
   },
   "a153945d-2511-4c14-be7b-05d242f47d57": {
     "asset": 1612513176797,
-    "meta": 1626348379386,
+    "meta": 1626361586145,
     "relativePath": "resources\\materials\\builtin-2d-graphics.mtl"
   },
   "3a7bb79f-32fd-422e-ada2-96f518fed422": {
     "asset": 1612513176797,
-    "meta": 1626348379388,
+    "meta": 1626361586147,
     "relativePath": "resources\\materials\\builtin-2d-gray-sprite.mtl"
   },
   "e02d87d4-e599-4d16-8001-e14891ac6506": {
     "asset": 1612513176798,
-    "meta": 1626348379389,
+    "meta": 1626361586148,
     "relativePath": "resources\\materials\\builtin-2d-label.mtl"
   },
   "7afd064b-113f-480e-b793-8817d19f63c3": {
     "asset": 1612513176799,
-    "meta": 1626348379390,
+    "meta": 1626361586149,
     "relativePath": "resources\\materials\\builtin-2d-spine.mtl"
   },
   "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432": {
     "asset": 1612513176799,
-    "meta": 1626348379392,
+    "meta": 1626361586151,
     "relativePath": "resources\\materials\\builtin-2d-sprite.mtl"
   },
   "432fa09c-cf03-4cff-a186-982604408a07": {
     "asset": 1612513176800,
-    "meta": 1626348379393,
+    "meta": 1626361586153,
     "relativePath": "resources\\materials\\builtin-3d-particle.mtl"
   },
   "466d4f9b-e5f4-4ea8-85d5-3c6e9a65658a": {
     "asset": 1612513176801,
-    "meta": 1626348379394,
+    "meta": 1626361586155,
     "relativePath": "resources\\materials\\builtin-3d-trail.mtl"
   },
   "cf7e0bb8-a81c-44a9-ad79-d28d43991032": {
     "asset": 1612513176801,
-    "meta": 1626348379395,
+    "meta": 1626361586156,
     "relativePath": "resources\\materials\\builtin-clear-stencil.mtl"
   },
   "2a296057-247c-4a1c-bbeb-0548b6c98650": {
     "asset": 1612513176802,
-    "meta": 1626348379397,
+    "meta": 1626361586158,
     "relativePath": "resources\\materials\\builtin-unlit.mtl"
+  },
+  "ea5d4655-6a63-4de8-8e46-817954a29733": {
+    "asset": 1626348413777,
+    "meta": 1626361586019,
+    "relativePath": "scripts\\Game.ts"
   },
   "954fec8b-cd16-4bb9-a3b7-7719660e7558": {
     "asset": 1612513176717,
-    "meta": 1626348379418,
+    "meta": 1626361586409,
     "relativePath": "model\\primitives.fbx"
   }
 }
