@@ -30,6 +30,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Game = void 0;
+var Player_1 = require("./Player");
 var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
 var Game = /** @class */ (function (_super) {
     __extends(Game, _super);
@@ -69,7 +70,7 @@ var Game = /** @class */ (function (_super) {
     Game.prototype.getNewStarPosition = function () {
         var randX = 0;
         // According to the position of the ground level and the main character's jump height, randomly obtain an anchor point of the star on the y axis
-        var randY = this.groundY + Math.random() * this.player.getComponent('Player').jumpHeight + 50;
+        var randY = this.groundY + Math.random() * this.player.jumpHeight + 50;
         // According to the width of the screen, randomly obtain an anchor point of star on the x axis
         var maxX = this.node.width / 2;
         randX = (Math.random() - 0.5) * 2 * maxX;
@@ -105,7 +106,7 @@ var Game = /** @class */ (function (_super) {
         property(cc.Node)
     ], Game.prototype, "ground", void 0);
     __decorate([
-        property(cc.Node)
+        property(Player_1.Player)
     ], Game.prototype, "player", void 0);
     __decorate([
         property(cc.Label)
